@@ -48,4 +48,8 @@ Count has park kind arch marry.
 
 Count has park kind arch land.
 
+Count has park mark.
+
+Count has park cross.
+
 Count has major.
